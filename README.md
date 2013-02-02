@@ -5,6 +5,9 @@ mouse game using JS
 Description
 ------
 Move your mouse to avoid the red balls, to survive 
+PLAY
+----
+[Try the game](http://paradigm2k12.com/mouseGame/ "hopefully still hosted")
 Features
 ----
 * pure JS.  
