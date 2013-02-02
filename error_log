@@ -1,0 +1,36 @@
+[17-Aug-2012 12:15:11] PHP Warning:  file_get_contents(people.txt) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home7/festaliz/public_html/paradigm2k12/mouseGame/index.php on line 81
+[17-Aug-2012 12:15:36] PHP Warning:  file_get_contents(people.txt) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home7/festaliz/public_html/paradigm2k12/mouseGame/index.php on line 81
+[17-Aug-2012 12:15:40] PHP Warning:  file_get_contents(people.txt) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home7/festaliz/public_html/paradigm2k12/mouseGame/index.php on line 81
+[17-Aug-2012 20:20:42] PHP Parse error:  syntax error, unexpected $end in /home7/festaliz/public_html/paradigm2k12/mouseGame/updateBoard.php on line 7
+[17-Aug-2012 20:20:50] PHP Parse error:  syntax error, unexpected $end in /home7/festaliz/public_html/paradigm2k12/mouseGame/updateBoard.php on line 7
+[17-Aug-2012 20:20:56] PHP Parse error:  syntax error, unexpected $end in /home7/festaliz/public_html/paradigm2k12/mouseGame/updateBoard.php on line 7
+[17-Aug-2012 20:25:31] PHP Parse error:  syntax error, unexpected $end in /home7/festaliz/public_html/paradigm2k12/mouseGame/updateBoard.php on line 7
+[17-Aug-2012 20:26:34] PHP Parse error:  syntax error, unexpected $end in /home7/festaliz/public_html/paradigm2k12/mouseGame/updateBoard.php on line 7
+[17-Aug-2012 20:27:11] PHP Parse error:  syntax error, unexpected $end in /home7/festaliz/public_html/paradigm2k12/mouseGame/updateBoard.php on line 7
+[17-Aug-2012 20:27:16] PHP Parse error:  syntax error, unexpected $end in /home7/festaliz/public_html/paradigm2k12/mouseGame/updateBoard.php on line 7
+[17-Aug-2012 20:27:50] PHP Parse error:  syntax error, unexpected $end in /home7/festaliz/public_html/paradigm2k12/mouseGame/updateBoard.php on line 7
+[17-Aug-2012 20:28:19] PHP Parse error:  syntax error, unexpected $end in /home7/festaliz/public_html/paradigm2k12/mouseGame/updateBoard.php on line 7
+[17-Aug-2012 20:28:43] PHP Parse error:  syntax error, unexpected $end in /home7/festaliz/public_html/paradigm2k12/mouseGame/updateBoard.php on line 7
+[17-Aug-2012 20:30:14] PHP Parse error:  syntax error, unexpected $end in /home7/festaliz/public_html/paradigm2k12/mouseGame/updateBoard.php on line 7
+[17-Aug-2012 20:30:46] PHP Parse error:  syntax error, unexpected $end in /home7/festaliz/public_html/paradigm2k12/mouseGame/updateBoard.php on line 7
+[17-Aug-2012 20:31:29] PHP Parse error:  syntax error, unexpected $end in /home7/festaliz/public_html/paradigm2k12/mouseGame/updateBoard.php on line 7
+[17-Aug-2012 20:32:01] PHP Parse error:  syntax error, unexpected $end in /home7/festaliz/public_html/paradigm2k12/mouseGame/updateBoard.php on line 7
+[17-Aug-2012 20:32:34] PHP Parse error:  syntax error, unexpected $end in /home7/festaliz/public_html/paradigm2k12/mouseGame/updateBoard.php on line 7
+[17-Aug-2012 20:35:32] PHP Parse error:  syntax error, unexpected $end in /home7/festaliz/public_html/paradigm2k12/mouseGame/updateBoard.php on line 7
+[18-Aug-2012 01:14:38] PHP Parse error:  syntax error, unexpected $end in /home7/festaliz/public_html/paradigm2k12/mouseGame/updateBoard.php on line 8
+[18-Aug-2012 01:14:47] PHP Parse error:  syntax error, unexpected $end in /home7/festaliz/public_html/paradigm2k12/mouseGame/updateBoard.php on line 8
+[18-Aug-2012 01:14:52] PHP Parse error:  syntax error, unexpected $end in /home7/festaliz/public_html/paradigm2k12/mouseGame/updateBoard.php on line 8
+[18-Aug-2012 01:14:53] PHP Parse error:  syntax error, unexpected $end in /home7/festaliz/public_html/paradigm2k12/mouseGame/updateBoard.php on line 8
+[18-Aug-2012 01:15:06] PHP Parse error:  syntax error, unexpected $end in /home7/festaliz/public_html/paradigm2k12/mouseGame/updateBoard.php on line 8
+[18-Aug-2012 02:07:46] PHP Parse error:  syntax error, unexpected $end in /home7/festaliz/public_html/paradigm2k12/mouseGame/updateBoard.php on line 13
+[18-Aug-2012 02:08:50] PHP Parse error:  syntax error, unexpected $end in /home7/festaliz/public_html/paradigm2k12/mouseGame/updateBoard.php on line 13
+[18-Aug-2012 02:09:50] PHP Parse error:  syntax error, unexpected $end in /home7/festaliz/public_html/paradigm2k12/mouseGame/updateBoard.php on line 13
+[18-Aug-2012 02:11:08] PHP Parse error:  syntax error, unexpected $end in /home7/festaliz/public_html/paradigm2k12/mouseGame/updateBoard.php on line 13
+[18-Aug-2012 02:12:04] PHP Parse error:  syntax error, unexpected $end in /home7/festaliz/public_html/paradigm2k12/mouseGame/updateBoard.php on line 13
+[18-Aug-2012 02:18:26] PHP Parse error:  syntax error, unexpected $end in /home7/festaliz/public_html/paradigm2k12/mouseGame/updateBoard.php on line 12
+[24-Aug-2012 02:19:42] PHP Parse error:  syntax error, unexpected '}' in /home7/festaliz/public_html/paradigm2k12/mouseGame/index.php on line 106
+[24-Aug-2012 02:19:54] PHP Parse error:  syntax error, unexpected '}' in /home7/festaliz/public_html/paradigm2k12/mouseGame/index.php on line 106
+[24-Aug-2012 02:20:00] PHP Parse error:  syntax error, unexpected '}' in /home7/festaliz/public_html/paradigm2k12/mouseGame/index.php on line 106
+[24-Aug-2012 02:20:03] PHP Parse error:  syntax error, unexpected '}' in /home7/festaliz/public_html/paradigm2k12/mouseGame/index.php on line 106
+[24-Aug-2012 02:20:21] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home7/festaliz/public_html/paradigm2k12/mouseGame/index.php:6) in /home7/festaliz/public_html/paradigm2k12/mouseGame/index.php on line 103
+[24-Aug-2012 02:20:21] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home7/festaliz/public_html/paradigm2k12/mouseGame/index.php:6) in /home7/festaliz/public_html/paradigm2k12/mouseGame/index.php on line 103
